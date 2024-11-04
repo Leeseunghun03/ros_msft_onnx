@@ -6,12 +6,12 @@ repositories:
   image_common:
     type: git
     url: https://github.com/ros-perception/image_common.git
-    version: foxy
+    version: humble
   vision_opencv:
     type: git
     url: https://github.com/ros-perception/vision_opencv.git
-    version: ros2
+    version: humble
   ros_msft_onnx:
     type: git
     url: https://github.com/ms-iot/ros_msft_onnx.git
-    version: foxy
+    version: humble
